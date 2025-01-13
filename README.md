@@ -9,11 +9,11 @@ The two networks are named:
 
 ## Download dataset
 
-The two networks can be downloaded from the following link:
+The two networks can be downloaded from the following links: [test_network_part1.p](https://github.com/lias-laboratory/epe2025-test-networks/releases/download/V1.0/test_network_part_1.p) and [test_network_part2.p](https://github.com/lias-laboratory/epe2025-test-networks/releases/download/V1.0/test_network_part_2.p)
 
 ## Software license agreement
 
-Details the license agreement of
+Details the license agreement of epe2025-test-networks: [LICENSE](LICENSE)
 
 ## Historical Contributors
 
